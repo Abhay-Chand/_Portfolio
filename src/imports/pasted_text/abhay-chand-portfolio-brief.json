@@ -1,0 +1,777 @@
+You are a team consisting of an Award-Winning Creative Director, Senior Product Designer, Motion Designer, Three.js Expert, WebGL Engineer, React Architect, GSAP Specialist, Framer Motion Expert, UX Researcher, and Frontend Performance Engineer.
+
+Your mission is to create one of the most visually stunning and technically impressive personal portfolio websites on the internet.
+
+This should not feel like a portfolio.
+
+It should feel like a premium digital experience.
+
+The goal is that recruiters, engineers, founders, and hiring managers remember the experience long after leaving the website.
+
+==================================================
+
+PERSONAL BRAND
+
+==================================================
+
+Brand Name:
+
+Abhay Chand
+
+Role:
+
+Data Engineer
+
+Cloud Engineer
+
+Data Analyst
+
+AI Enthusiast
+
+The website must represent someone building modern data platforms, cloud-native architectures, distributed systems, analytics dashboards, and AI-powered applications.
+
+==================================================
+
+MOST IMPORTANT REQUIREMENT
+
+==================================================
+
+DO NOT BUILD A NORMAL WEBSITE.
+
+DO NOT BUILD A SINGLE PAGE WEBSITE WITH RANDOM 3D OBJECTS.
+
+DO NOT PLACE FLOATING MODELS AROUND NORMAL HTML SECTIONS.
+
+Instead...
+
+Design one immersive digital world.
+
+Every section must belong to the same universe.
+
+The visitor should feel like they are travelling through one continuous experience.
+
+Scrolling should transform environments rather than reveal stacked webpage sections.
+
+Think cinematic storytelling.
+
+Not webpage scrolling.
+
+==================================================
+
+THEME
+
+==================================================
+
+The entire website should represent a living Data Engineering ecosystem.
+
+Everything must visually relate to my profession.
+
+Examples include:
+
+Data packets
+
+Streaming pipelines
+
+Cloud infrastructure
+
+ETL pipelines
+
+Kafka streams
+
+Spark jobs
+
+Data lakes
+
+Snowflake warehouses
+
+SQL databases
+
+Distributed systems
+
+API gateways
+
+Network topology
+
+Machine learning models
+
+Neural networks
+
+Real-time dashboards
+
+Digital twins
+
+Cloud regions
+
+Monitoring systems
+
+Every object should have meaning.
+
+Avoid random futuristic decorations.
+
+==================================================
+
+CREATIVE DIRECTION
+
+==================================================
+
+Take inspiration from premium interactive studios.
+
+Do NOT copy layouts.
+
+Instead capture their design philosophy.
+
+Think:
+
+Apple Product Launches
+
+Active Theory
+
+Studio Freight
+
+Dogstudio
+
+Bruno Simon
+
+Immersive Garden
+
+Resn
+
+Locomotive
+
+Vercel
+
+Stripe
+
+Linear
+
+OpenAI
+
+The experience should feel handcrafted.
+
+==================================================
+
+VISUAL LANGUAGE
+
+==================================================
+
+Minimal.
+
+Luxurious.
+
+Elegant.
+
+Modern.
+
+Huge typography.
+
+Strong visual hierarchy.
+
+Lots of breathing room.
+
+Glassmorphism.
+
+Soft gradients.
+
+Volumetric lighting.
+
+Bloom.
+
+Reflections.
+
+Depth.
+
+Smooth shadows.
+
+Micro animations everywhere.
+
+==================================================
+
+COLOR SYSTEM
+
+==================================================
+
+Primary
+
+Deep Space Black
+
+Secondary
+
+Dark Navy
+
+Accent
+
+Electric Blue
+
+Cyan
+
+Purple
+
+White
+
+Subtle animated gradients.
+
+Never oversaturate.
+
+==================================================
+
+3D PHILOSOPHY
+
+==================================================
+
+Use 3D only when it improves storytelling.
+
+Never use 3D simply because it looks cool.
+
+Every model must have purpose.
+
+Every animation must communicate something.
+
+Every scene should explain Data Engineering.
+
+==================================================
+
+CAMERA
+
+==================================================
+
+The camera is part of the storytelling.
+
+Use cinematic camera movement.
+
+Slow zooms.
+
+Smooth pans.
+
+Depth transitions.
+
+Scene reveals.
+
+Parallax.
+
+Layered environments.
+
+==================================================
+
+SCROLL EXPERIENCE
+
+==================================================
+
+Scrolling should feel like travelling.
+
+Not moving down a webpage.
+
+As the user scrolls:
+
+camera moves
+
+environment transforms
+
+lighting changes
+
+particles react
+
+objects animate
+
+new environments appear
+
+Each section should naturally evolve into the next.
+
+==================================================
+
+HOME
+
+==================================================
+
+The visitor enters through a futuristic loading sequence.
+
+Loading AI Core...
+
+Connecting Cloud...
+
+Initializing Distributed Cluster...
+
+Authenticating...
+
+Loading Data Warehouse...
+
+Ready.
+
+The camera enters a futuristic digital city.
+
+Floating cloud servers.
+
+Streaming data.
+
+AI neurons.
+
+Digital Earth.
+
+Massive cinematic typography reveals
+
+ABHAY CHAND
+
+DATA ENGINEER
+
+CLOUD ENGINEER
+
+AI ENGINEER
+
+==================================================
+
+ABOUT
+
+==================================================
+
+Instead of a boring card.
+
+Create an interactive holographic identity.
+
+Information appears around a rotating hologram.
+
+Use subtle animations.
+
+==================================================
+
+SKILLS
+
+==================================================
+
+Create an interactive ecosystem.
+
+Python
+
+SQL
+
+Spark
+
+Kafka
+
+Snowflake
+
+Airflow
+
+AWS
+
+Azure
+
+Docker
+
+Kubernetes
+
+Power BI
+
+Tableau
+
+Pandas
+
+PySpark
+
+Git
+
+Linux
+
+Each skill should exist inside the world.
+
+Not as static badges.
+
+==================================================
+
+PROJECTS
+
+==================================================
+
+Projects should become immersive experiences.
+
+Each project opens into its own environment.
+
+Include:
+
+Problem
+
+Architecture
+
+Technology
+
+Features
+
+Challenges
+
+Learnings
+
+GitHub
+
+Live Demo
+
+Images
+
+Videos
+
+Performance
+
+Architecture diagrams
+
+Animated transitions
+
+==================================================
+
+DATA ANALYTICS SHOWCASE
+
+==================================================
+
+This is one of the most important sections.
+
+Do NOT display screenshots.
+
+Instead build an interactive analytics command center.
+
+If my Power BI dashboards can be embedded publicly,
+
+embed them directly.
+
+Otherwise recreate the dashboards using modern web visualization libraries.
+
+Allow users to:
+
+Hover
+
+Zoom
+
+Filter
+
+Interact
+
+Animate
+
+Use beautiful charts.
+
+The experience should feel like Bloomberg Terminal meets Power BI.
+
+==================================================
+
+DATA ENGINEERING VISUALIZATION
+
+==================================================
+
+Create an animated pipeline.
+
+Data Sources
+
+↓
+
+Kafka
+
+↓
+
+Spark
+
+↓
+
+Airflow
+
+↓
+
+Snowflake
+
+↓
+
+Warehouse
+
+↓
+
+Power BI
+
+↓
+
+AI Models
+
+The user should visually watch data move through the pipeline.
+
+==================================================
+
+CERTIFICATIONS
+
+==================================================
+
+Read every certification from my uploaded Resume.
+
+Also use my LinkedIn profile.
+
+Create an immersive certification gallery.
+
+Each certification expands into
+
+Certificate
+
+Issuer
+
+Date
+
+Credential
+
+Skills
+
+Verification
+
+Animations
+
+Organization logo
+
+Do not invent certifications.
+
+==================================================
+
+EXPERIENCE
+
+==================================================
+
+Generate a premium timeline.
+
+Animated.
+
+Interactive.
+
+Connected through glowing pipelines.
+
+==================================================
+
+GITHUB
+
+==================================================
+
+Integrate live GitHub.
+
+Contribution Graph
+
+Pinned Repositories
+
+Recent Commits
+
+Languages
+
+Stars
+
+Followers
+
+Repository Cards
+
+==================================================
+
+LINKEDIN
+
+==================================================
+
+Use my LinkedIn profile together with my Resume.
+
+Extract:
+
+Experience
+
+Skills
+
+Certifications
+
+Achievements
+
+Featured
+
+Awards
+
+Keep content synchronized.
+
+==================================================
+
+RESUME
+
+==================================================
+
+The uploaded resume is the primary source of truth.
+
+Automatically populate
+
+Education
+
+Projects
+
+Experience
+
+Skills
+
+Achievements
+
+Certifications
+
+Summary
+
+Do NOT create fake information.
+
+If information is missing,
+
+leave editable placeholders.
+
+==================================================
+
+CONTENT ARCHITECTURE
+
+==================================================
+
+Store ALL portfolio content inside one central data file.
+
+portfolioData.ts
+
+or
+
+portfolio.json
+
+The UI should read data from there.
+
+Future edits should require changing only one file.
+
+==================================================
+
+SOUND DESIGN
+
+==================================================
+
+Optional ambient soundtrack.
+
+Mute button.
+
+Hover sounds.
+
+Button clicks.
+
+Navigation swooshes.
+
+Soft UI feedback.
+
+Premium.
+
+Minimal.
+
+==================================================
+
+MICRO INTERACTIONS
+
+==================================================
+
+Everything should react.
+
+Buttons
+
+Cards
+
+Cursor
+
+Images
+
+Charts
+
+Models
+
+Hover
+
+Tilt
+
+Glow
+
+Magnetic effects
+
+Smooth physics.
+
+==================================================
+
+LOADER
+
+==================================================
+
+The loading screen should feel like booting a futuristic operating system.
+
+Not a spinner.
+
+==================================================
+
+PERFORMANCE
+
+==================================================
+
+Maintain excellent performance.
+
+Target:
+
+90+ Lighthouse
+
+Lazy Loading
+
+Code Splitting
+
+GPU Optimization
+
+Texture Compression
+
+Responsive
+
+SEO
+
+Accessibility
+
+==================================================
+
+TECH STACK
+
+==================================================
+
+Next.js
+
+TypeScript
+
+React
+
+Three.js
+
+React Three Fiber
+
+Drei
+
+GSAP
+
+Framer Motion
+
+Lenis
+
+Tailwind CSS
+
+WebGL
+
+Post Processing
+
+Shader Effects
+
+React Icons
+
+React Hook Form
+
+MongoDB (for contact form)
+
+GitHub API
+
+Power BI Embed API (if applicable)
+
+==================================================
+
+FINAL GOAL
+
+==================================================
+
+When someone visits this website they should never think:
+
+"This is a nice portfolio."
+
+Instead they should think:
+
+"I've never seen a Data Engineering portfolio presented like this before."
+
+The experience should be memorable, immersive, cinematic, technically sophisticated, and tell the story of a modern Data Engineer through interactive design rather than conventional web pages.
+
+LinkedIn link - https://www.linkedin.com/in/abhay-chand/
+
+Github Link - https://github.com/Abhay-Chand
